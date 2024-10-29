@@ -15,7 +15,6 @@ This course introduces essential programming concepts and problem-solving techni
 
 The code in this repository is primarily written in:
 - **Java** for programming fundamentals and OOP concepts
-- **JUnit** for testing
 
 ## Assignments
 
@@ -37,4 +36,4 @@ To clone and run this project locally:
 3. Build and run each assignment as per the instructions in the respective folders.
 
 ## License
-
+This repository is for educational purposes as part of the CS 2013 course at Cal State LA.
